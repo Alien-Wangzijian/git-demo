@@ -7,3 +7,7 @@ git rm --cached 文件名 表示从暂存区中删除该文件
 
 how are you
 git rm --cached 文件名 表示从暂存区中删除改文件
+
+hot-fix changed
+
+master changed
